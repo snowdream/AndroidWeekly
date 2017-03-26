@@ -1,6 +1,6 @@
 # Android开发技术周报 Issue#10
 
-    声明：所有内容收集整理自网络。如有侵权，请联系删除。
+    声明：所有内容收集整理自网络。如有侵权，请联系删除。微信公众号上请点击“阅读原文”阅读完整版本。
 
 ## 业界新闻
 #### 1. [O-MG，Google 发布 Android O 开发者预览版！](https://www.oschina.net/news/83135/first-preview-of-android-o)
