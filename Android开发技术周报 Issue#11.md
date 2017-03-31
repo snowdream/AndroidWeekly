@@ -15,7 +15,7 @@ Tangram，七巧板，是天猫团队刚刚开源的跨平台模块化 UI 界面
 #### 1. [移动应用设计：综述、导航和浏览](http://t.cn/R60XeGw)
 应用程序现在是主流的提供内容和服务的方式，并已经广受用户信赖。但在一个已经高度被开发的市场里，一款移动应用如何做到有用，有意义并且有价值，以使客户满意并留存呢？ Google 的 UX 研究主管 Jenny Gove 为您详细介绍了创建一款优秀的移动应用的 25 条原则，我们会在这次连载中分批次为您逐一详述。
 
-#### 3. [Android View进阶之RecyclerView 实现滑动删除和拖拽功能](http://t.cn/R60aGB3)
+#### 2. [Android View进阶之RecyclerView 实现滑动删除和拖拽功能](http://t.cn/R60aGB3)
 从Android 5.0开始，谷歌推出了新的控件RecyclerView，相对于早它之前的ListView，优点多多，功能强大，也给我们的开发着提供了极大的便利，今天自己学习一下RecyclerView轻松实现滑动删除及拖拽的效果。
 
 #### 3. [实现一个带下拉弹簧动画的 ScrollView](http://www.jianshu.com/p/ce6497cada9c)
