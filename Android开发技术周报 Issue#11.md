@@ -6,7 +6,7 @@
 #### 1. [个人开发者可申请小程序](https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=1490627746&version=1&lang=zh_CN)
 小程序开放个人开发者申请注册，个人用户可访问微信公众平台，扫码验证个人身份后即可完成小程序帐号申请并进行代码开发。
 
-请访问：[微信公众平台(mp.weixin.qq.com)](https://mp.weixin.qq.com/cgi-bin/registermidpage?action=index&lang=zh_CN
+请访问：[微信公众平台](https://mp.weixin.qq.com/cgi-bin/registermidpage?action=index&lang=zh_CN
   
 #### 2. [天猫团队开源跨平台模块化 UI 界面开发框架 Tangram](https://www.oschina.net/news/83432/alibaba-opensource-tangram)
 Tangram，七巧板，是天猫团队刚刚开源的跨平台模块化 UI 界面方案。据悉，之所以命名为 Tangram ，是希望它能像七巧板一样可以通过几块积木就搭出丰富多彩的界面。
